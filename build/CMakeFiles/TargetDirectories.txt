@@ -1,0 +1,4 @@
+D:/sisprogkursova/ex2/build/CMakeFiles/calc.dir
+D:/sisprogkursova/ex2/build/CMakeFiles/main.dir
+D:/sisprogkursova/ex2/build/CMakeFiles/edit_cache.dir
+D:/sisprogkursova/ex2/build/CMakeFiles/rebuild_cache.dir
